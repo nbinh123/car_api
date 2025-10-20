@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
     "json-server": "^1.0.0-beta.3"
   },
   "scripts": {
-    "db": "json-server --watch ./data.json --port 8888"
+    "db": "json-server --watch ./data.json --port 8888",
+    "start": "node server.js"
   }
 }
