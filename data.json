@@ -1,0 +1,1895 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "name": "Mercedes-Benz C300 AMG",
+      "brand": "Mercedes-Benz",
+      "model": "C300",
+      "variant": "AMG",
+      "price": "2.099.000.000",
+      "priceNumber": 2099000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "luxury",
+      "rating": 4.9,
+      "reviews": 127,
+      "stock": "Còn hàng",
+      "stockQuantity": 5,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        },
+        {
+          "name": "Xanh",
+          "value": "blue",
+          "hex": "#3B82F6",
+          "available": false
+        }
+      ],
+      "specs": {
+        "engine": "2.0L Turbo",
+        "engineCapacity": "1991cc",
+        "power": "258 HP",
+        "powerRpm": "5800-6100",
+        "torque": "370 Nm",
+        "torqueRpm": "1800-4000",
+        "transmission": "Tự động 9 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.2L/100km",
+        "fuelTankCapacity": "66L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu sau",
+        "acceleration": "6.0 giây (0-100km/h)",
+        "topSpeed": "250 km/h",
+        "dimensions": {
+          "length": "4751 mm",
+          "width": "1820 mm",
+          "height": "1438 mm",
+          "wheelbase": "2865 mm",
+          "groundClearance": "125 mm"
+        },
+        "weight": "1640 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 2 vùng",
+        "Ghế da cao cấp chỉnh điện",
+        "Hệ thống âm thanh Burmester",
+        "Màn hình cảm ứng 11.9 inch",
+        "Camera 360 độ",
+        "Hệ thống an toàn chủ động",
+        "Cruise Control thích ứng",
+        "Cốp điện thông minh",
+        "Đèn LED Matrix thông minh",
+        "Phanh tay điện tử",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm"
+      ],
+      "safety": [
+        "Túi khí đa điểm",
+        "ABS + EBD + BA",
+        "ESP - Cân bằng điện tử",
+        "Cảnh báo điểm mù",
+        "Cảnh báo va chạm",
+        "Hỗ trợ đỗ xe tự động",
+        "Cảm biến áp suất lốp"
+      ],
+      "description": "Mercedes-Benz C300 AMG là sự kết hợp hoàn hảo giữa sang trọng và thể thao. Với thiết kế AMG Line đầy mạnh mẽ, nội thất cao cấp và công nghệ hiện đại, C300 AMG mang đến trải nghiệm lái xe đẳng cấp cho những ai yêu thích sự hoàn hảo.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 4,
+        "description": "Miễn phí 4 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "50.000.000",
+        "gift": "Phim cách nhiệt 3M + Camera hành trình",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "Xe sang",
+        "Bán chạy",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "mercedes c300",
+        "c300 amg",
+        "xe mercedes",
+        "xe sang"
+      ],
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-10-19T08:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Toyota Camry 2.5Q",
+      "brand": "Toyota",
+      "model": "Camry",
+      "variant": "2.5Q",
+      "price": "1.235.000.000",
+      "priceNumber": 1235000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "sedan",
+      "rating": 4.8,
+      "reviews": 95,
+      "stock": "Còn hàng",
+      "stockQuantity": 8,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng ngọc trai",
+          "value": "white",
+          "hex": "#F8F9FA",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Bạc",
+          "value": "silver",
+          "hex": "#C0C0C0",
+          "available": true
+        },
+        {
+          "name": "Đỏ",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.5L VVT-i",
+        "engineCapacity": "2487cc",
+        "power": "181 HP",
+        "powerRpm": "6000",
+        "torque": "231 Nm",
+        "torqueRpm": "4100",
+        "transmission": "Tự động 8 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "6.8L/100km",
+        "fuelTankCapacity": "60L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "8.5 giây (0-100km/h)",
+        "topSpeed": "210 km/h",
+        "dimensions": {
+          "length": "4920 mm",
+          "width": "1840 mm",
+          "height": "1455 mm",
+          "wheelbase": "2825 mm",
+          "groundClearance": "140 mm"
+        },
+        "weight": "1530 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động",
+        "Ghế da chỉnh điện",
+        "Màn hình cảm ứng 9 inch",
+        "Camera lùi",
+        "Cảm biến lùi",
+        "Cruise Control",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm",
+        "Đèn LED tự động",
+        "Gương gập điện tự động"
+      ],
+      "safety": [
+        "7 túi khí",
+        "ABS + EBD + BA",
+        "VSC - Ổn định thân xe",
+        "HAC - Hỗ trợ khởi hành ngang dốc",
+        "Cảnh báo điểm mù",
+        "Cảnh báo lệch làn đường"
+      ],
+      "description": "Toyota Camry 2.5Q mang đến sự sang trọng và tiện nghi vượt trội trong phân khúc sedan hạng D. Với thiết kế hiện đại, động cơ mạnh mẽ và tiết kiệm nhiên liệu, Camry là lựa chọn hoàn hảo cho gia đình và doanh nhân.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "Sedan",
+        "Tiết kiệm nhiên liệu"
+      ],
+      "seoKeywords": [
+        "toyota camry",
+        "camry 2.5q",
+        "sedan toyota"
+      ],
+      "createdAt": "2024-02-10T09:00:00Z",
+      "updatedAt": "2024-10-18T14:20:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Ford Ranger Raptor",
+      "brand": "Ford",
+      "model": "Ranger",
+      "variant": "Raptor",
+      "price": "1.430.000.000",
+      "priceNumber": 1430000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Dầu",
+      "category": "suv",
+      "rating": 4.7,
+      "reviews": 68,
+      "stock": "Còn hàng",
+      "stockQuantity": 3,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80",
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "value": "blue",
+          "hex": "#1E3A8A",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": false
+        }
+      ],
+      "specs": {
+        "engine": "2.0L Bi-Turbo Diesel",
+        "engineCapacity": "1996cc",
+        "power": "210 HP",
+        "powerRpm": "3750",
+        "torque": "500 Nm",
+        "torqueRpm": "1750-2000",
+        "transmission": "Tự động 10 cấp",
+        "fuelType": "Dầu",
+        "fuelConsumption": "8.5L/100km",
+        "fuelTankCapacity": "80L",
+        "seats": "5 chỗ",
+        "drive": "4WD - Dẫn động 4 bánh",
+        "acceleration": "10.0 giây (0-100km/h)",
+        "topSpeed": "170 km/h",
+        "dimensions": {
+          "length": "5370 mm",
+          "width": "2028 mm",
+          "height": "1884 mm",
+          "wheelbase": "3270 mm",
+          "groundClearance": "283 mm"
+        },
+        "weight": "2325 kg"
+      },
+      "features": [
+        "Hệ thống treo Fox Racing",
+        "Lốp địa hình BFGoodrich",
+        "Màn hình 12.4 inch",
+        "Hệ thống âm thanh B&O",
+        "Camera 360 độ",
+        "Cruise Control thích ứng",
+        "Cửa sổ trời Panorama",
+        "Đèn LED Matrix",
+        "Ghế da Raptor đặc trưng",
+        "Vô lăng bọc da thể thao"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD",
+        "ESP + TCS",
+        "Hill Descent Control",
+        "Hỗ trợ khởi hành ngang dốc",
+        "Cảnh báo va chạm",
+        "Cảnh báo điểm mù"
+      ],
+      "description": "Ford Ranger Raptor là biểu tượng của sức mạnh và khả năng off-road vượt trội. Được thiết kế đặc biệt với hệ thống treo Fox Racing và động cơ bi-turbo mạnh mẽ, Raptor là lựa chọn hàng đầu cho những ai đam mê chinh phục địa hình.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 4,
+        "description": "Miễn phí 4 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "30.000.000",
+        "gift": "Phụ kiện off-road",
+        "validUntil": "2024-11-30"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Off-road",
+        "4WD"
+      ],
+      "seoKeywords": [
+        "ford ranger raptor",
+        "xe bán tải",
+        "off-road"
+      ],
+      "createdAt": "2024-03-05T11:30:00Z",
+      "updatedAt": "2024-10-19T10:15:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Honda CR-V L",
+      "brand": "Honda",
+      "model": "CR-V",
+      "variant": "L",
+      "price": "1.259.000.000",
+      "priceNumber": 1259000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "suv",
+      "rating": 4.6,
+      "reviews": 82,
+      "stock": "Còn hàng",
+      "stockQuantity": 6,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        },
+        {
+          "name": "Đỏ",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "1.5L VTEC Turbo",
+        "engineCapacity": "1498cc",
+        "power": "188 HP",
+        "powerRpm": "5600",
+        "torque": "240 Nm",
+        "torqueRpm": "1700-4500",
+        "transmission": "CVT vô cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.0L/100km",
+        "fuelTankCapacity": "57L",
+        "seats": "7 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "9.5 giây (0-100km/h)",
+        "topSpeed": "195 km/h",
+        "dimensions": {
+          "length": "4703 mm",
+          "width": "1866 mm",
+          "height": "1690 mm",
+          "wheelbase": "2701 mm",
+          "groundClearance": "198 mm"
+        },
+        "weight": "1570 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 2 vùng",
+        "Ghế da cao cấp",
+        "Màn hình 9 inch",
+        "Camera 360 độ",
+        "Cửa sổ trời Panorama",
+        "Cửa cốp điện",
+        "Honda Sensing",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm",
+        "Sạc không dây"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD + BA",
+        "VSA - Ổn định thân xe",
+        "HSA - Hỗ trợ khởi hành",
+        "Cảnh báo va chạm",
+        "Cảnh báo lệch làn",
+        "Cruise Control thích ứng"
+      ],
+      "description": "Honda CR-V L là mẫu SUV 7 chỗ hoàn hảo cho gia đình. Với không gian rộng rãi, công nghệ Honda Sensing hiện đại và tiết kiệm nhiên liệu, CR-V mang đến sự an toàn và tiện nghi tối đa cho mọi hành trình.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "7 chỗ",
+        "Gia đình"
+      ],
+      "seoKeywords": [
+        "honda crv",
+        "suv 7 chỗ",
+        "xe gia đình"
+      ],
+      "createdAt": "2024-02-20T13:00:00Z",
+      "updatedAt": "2024-10-17T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "name": "BMW X5 xDrive40i",
+      "brand": "BMW",
+      "model": "X5",
+      "variant": "xDrive40i",
+      "price": "4.199.000.000",
+      "priceNumber": 4199000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "luxury",
+      "rating": 5.0,
+      "reviews": 45,
+      "stock": "Còn hàng",
+      "stockQuantity": 2,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đen carbon",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng alpine",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xanh phytonic",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        },
+        {
+          "name": "Xám sophisto",
+          "value": "gray",
+          "hex": "#4B5563",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "3.0L Inline-6 TwinPower Turbo",
+        "engineCapacity": "2998cc",
+        "power": "340 HP",
+        "powerRpm": "5500-6500",
+        "torque": "450 Nm",
+        "torqueRpm": "1500-5200",
+        "transmission": "Tự động 8 cấp Steptronic",
+        "fuelType": "Xăng",
+        "fuelConsumption": "9.1L/100km",
+        "fuelTankCapacity": "83L",
+        "seats": "5 chỗ",
+        "drive": "xDrive - Dẫn động 4 bánh toàn thời gian",
+        "acceleration": "5.5 giây (0-100km/h)",
+        "topSpeed": "245 km/h",
+        "dimensions": {
+          "length": "4922 mm",
+          "width": "2004 mm",
+          "height": "1745 mm",
+          "wheelbase": "2975 mm",
+          "groundClearance": "214 mm"
+        },
+        "weight": "2145 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 4 vùng",
+        "Ghế da Vernasca chỉnh điện massage",
+        "Hệ thống âm thanh Harman Kardon",
+        "Màn hình cảm ứng 12.3 inch",
+        "BMW Live Cockpit Professional",
+        "Camera 360 độ + Parking Assistant",
+        "Head-Up Display",
+        "Cửa sổ trời Panorama",
+        "Đèn Laser thích ứng",
+        "Hệ thống treo khí nén",
+        "Wireless CarPlay & Android Auto",
+        "Sạc không dây"
+      ],
+      "safety": [
+        "8 túi khí",
+        "ABS + DSC",
+        "Hệ thống phanh khẩn cấp",
+        "Cảnh báo va chạm trước/sau",
+        "Hỗ trợ giữ làn",
+        "Cruise Control thích ứng",
+        "Nhận diện biển báo",
+        "Cảnh báo điểm mù"
+      ],
+      "description": "BMW X5 xDrive40i là đỉnh cao của dòng SUV hạng sang. Kết hợp hoàn hảo giữa hiệu suất mạnh mẽ, công nghệ tiên tiến và nội thất sang trọng, X5 mang đến trải nghiệm lái xe đẳng cấp thượng lưu cho những khách hàng khó tính nhất.",
+      "warranty": {
+        "years": 3,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 3 năm không giới hạn số km"
+      },
+      "maintenance": {
+        "freeTimes": 5,
+        "description": "Miễn phí 5 năm bảo dưỡng định kỳ"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "100.000.000",
+        "gift": "Gói phụ kiện BMW M Performance trị giá 150 triệu",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Xe sang",
+        "VIP",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "bmw x5",
+        "suv sang",
+        "xe bmw",
+        "x5 xdrive"
+      ],
+      "createdAt": "2024-01-10T08:00:00Z",
+      "updatedAt": "2024-10-19T09:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Mercedes-Benz C300 AMG",
+      "brand": "Mercedes-Benz",
+      "model": "C300",
+      "variant": "AMG",
+      "price": "2.099.000.000",
+      "priceNumber": 2099000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "luxury",
+      "rating": 4.9,
+      "reviews": 127,
+      "stock": "Còn hàng",
+      "stockQuantity": 5,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        },
+        {
+          "name": "Xanh",
+          "value": "blue",
+          "hex": "#3B82F6",
+          "available": false
+        }
+      ],
+      "specs": {
+        "engine": "2.0L Turbo",
+        "engineCapacity": "1991cc",
+        "power": "258 HP",
+        "powerRpm": "5800-6100",
+        "torque": "370 Nm",
+        "torqueRpm": "1800-4000",
+        "transmission": "Tự động 9 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.2L/100km",
+        "fuelTankCapacity": "66L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu sau",
+        "acceleration": "6.0 giây (0-100km/h)",
+        "topSpeed": "250 km/h",
+        "dimensions": {
+          "length": "4751 mm",
+          "width": "1820 mm",
+          "height": "1438 mm",
+          "wheelbase": "2865 mm",
+          "groundClearance": "125 mm"
+        },
+        "weight": "1640 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 2 vùng",
+        "Ghế da cao cấp chỉnh điện",
+        "Hệ thống âm thanh Burmester",
+        "Màn hình cảm ứng 11.9 inch",
+        "Camera 360 độ",
+        "Hệ thống an toàn chủ động",
+        "Cruise Control thích ứng",
+        "Cốp điện thông minh",
+        "Đèn LED Matrix thông minh",
+        "Phanh tay điện tử",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm"
+      ],
+      "safety": [
+        "Túi khí đa điểm",
+        "ABS + EBD + BA",
+        "ESP - Cân bằng điện tử",
+        "Cảnh báo điểm mù",
+        "Cảnh báo va chạm",
+        "Hỗ trợ đỗ xe tự động",
+        "Cảm biến áp suất lốp"
+      ],
+      "description": "Mercedes-Benz C300 AMG là sự kết hợp hoàn hảo giữa sang trọng và thể thao. Với thiết kế AMG Line đầy mạnh mẽ, nội thất cao cấp và công nghệ hiện đại, C300 AMG mang đến trải nghiệm lái xe đẳng cấp cho những ai yêu thích sự hoàn hảo.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 4,
+        "description": "Miễn phí 4 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "50.000.000",
+        "gift": "Phim cách nhiệt 3M + Camera hành trình",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "Xe sang",
+        "Bán chạy",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "mercedes c300",
+        "c300 amg",
+        "xe mercedes",
+        "xe sang"
+      ],
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-10-19T08:30:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Toyota Camry 2.5Q",
+      "brand": "Toyota",
+      "model": "Camry",
+      "variant": "2.5Q",
+      "price": "1.235.000.000",
+      "priceNumber": 1235000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "sedan",
+      "rating": 4.8,
+      "reviews": 95,
+      "stock": "Còn hàng",
+      "stockQuantity": 8,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng ngọc trai",
+          "value": "white",
+          "hex": "#F8F9FA",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Bạc",
+          "value": "silver",
+          "hex": "#C0C0C0",
+          "available": true
+        },
+        {
+          "name": "Đỏ",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.5L VVT-i",
+        "engineCapacity": "2487cc",
+        "power": "181 HP",
+        "powerRpm": "6000",
+        "torque": "231 Nm",
+        "torqueRpm": "4100",
+        "transmission": "Tự động 8 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "6.8L/100km",
+        "fuelTankCapacity": "60L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "8.5 giây (0-100km/h)",
+        "topSpeed": "210 km/h",
+        "dimensions": {
+          "length": "4920 mm",
+          "width": "1840 mm",
+          "height": "1455 mm",
+          "wheelbase": "2825 mm",
+          "groundClearance": "140 mm"
+        },
+        "weight": "1530 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động",
+        "Ghế da chỉnh điện",
+        "Màn hình cảm ứng 9 inch",
+        "Camera lùi",
+        "Cảm biến lùi",
+        "Cruise Control",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm",
+        "Đèn LED tự động",
+        "Gương gập điện tự động"
+      ],
+      "safety": [
+        "7 túi khí",
+        "ABS + EBD + BA",
+        "VSC - Ổn định thân xe",
+        "HAC - Hỗ trợ khởi hành ngang dốc",
+        "Cảnh báo điểm mù",
+        "Cảnh báo lệch làn đường"
+      ],
+      "description": "Toyota Camry 2.5Q mang đến sự sang trọng và tiện nghi vượt trội trong phân khúc sedan hạng D. Với thiết kế hiện đại, động cơ mạnh mẽ và tiết kiệm nhiên liệu, Camry là lựa chọn hoàn hảo cho gia đình và doanh nhân.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "Sedan",
+        "Tiết kiệm nhiên liệu"
+      ],
+      "seoKeywords": [
+        "toyota camry",
+        "camry 2.5q",
+        "sedan toyota"
+      ],
+      "createdAt": "2024-02-10T09:00:00Z",
+      "updatedAt": "2024-10-18T14:20:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Ford Ranger Raptor",
+      "brand": "Ford",
+      "model": "Ranger",
+      "variant": "Raptor",
+      "price": "1.430.000.000",
+      "priceNumber": 1430000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Dầu",
+      "category": "suv",
+      "rating": 4.7,
+      "reviews": 68,
+      "stock": "Còn hàng",
+      "stockQuantity": 3,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80",
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "value": "blue",
+          "hex": "#1E3A8A",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": false
+        }
+      ],
+      "specs": {
+        "engine": "2.0L Bi-Turbo Diesel",
+        "engineCapacity": "1996cc",
+        "power": "210 HP",
+        "powerRpm": "3750",
+        "torque": "500 Nm",
+        "torqueRpm": "1750-2000",
+        "transmission": "Tự động 10 cấp",
+        "fuelType": "Dầu",
+        "fuelConsumption": "8.5L/100km",
+        "fuelTankCapacity": "80L",
+        "seats": "5 chỗ",
+        "drive": "4WD - Dẫn động 4 bánh",
+        "acceleration": "10.0 giây (0-100km/h)",
+        "topSpeed": "170 km/h",
+        "dimensions": {
+          "length": "5370 mm",
+          "width": "2028 mm",
+          "height": "1884 mm",
+          "wheelbase": "3270 mm",
+          "groundClearance": "283 mm"
+        },
+        "weight": "2325 kg"
+      },
+      "features": [
+        "Hệ thống treo Fox Racing",
+        "Lốp địa hình BFGoodrich",
+        "Màn hình 12.4 inch",
+        "Hệ thống âm thanh B&O",
+        "Camera 360 độ",
+        "Cruise Control thích ứng",
+        "Cửa sổ trời Panorama",
+        "Đèn LED Matrix",
+        "Ghế da Raptor đặc trưng",
+        "Vô lăng bọc da thể thao"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD",
+        "ESP + TCS",
+        "Hill Descent Control",
+        "Hỗ trợ khởi hành ngang dốc",
+        "Cảnh báo va chạm",
+        "Cảnh báo điểm mù"
+      ],
+      "description": "Ford Ranger Raptor là biểu tượng của sức mạnh và khả năng off-road vượt trội. Được thiết kế đặc biệt với hệ thống treo Fox Racing và động cơ bi-turbo mạnh mẽ, Raptor là lựa chọn hàng đầu cho những ai đam mê chinh phục địa hình.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 4,
+        "description": "Miễn phí 4 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "30.000.000",
+        "gift": "Phụ kiện off-road",
+        "validUntil": "2024-11-30"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Off-road",
+        "4WD"
+      ],
+      "seoKeywords": [
+        "ford ranger raptor",
+        "xe bán tải",
+        "off-road"
+      ],
+      "createdAt": "2024-03-05T11:30:00Z",
+      "updatedAt": "2024-10-19T10:15:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Honda CR-V L",
+      "brand": "Honda",
+      "model": "CR-V",
+      "variant": "L",
+      "price": "1.259.000.000",
+      "priceNumber": 1259000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "suv",
+      "rating": 4.6,
+      "reviews": 82,
+      "stock": "Còn hàng",
+      "stockQuantity": 6,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        },
+        {
+          "name": "Đỏ",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "1.5L VTEC Turbo",
+        "engineCapacity": "1498cc",
+        "power": "188 HP",
+        "powerRpm": "5600",
+        "torque": "240 Nm",
+        "torqueRpm": "1700-4500",
+        "transmission": "CVT vô cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.0L/100km",
+        "fuelTankCapacity": "57L",
+        "seats": "7 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "9.5 giây (0-100km/h)",
+        "topSpeed": "195 km/h",
+        "dimensions": {
+          "length": "4703 mm",
+          "width": "1866 mm",
+          "height": "1690 mm",
+          "wheelbase": "2701 mm",
+          "groundClearance": "198 mm"
+        },
+        "weight": "1570 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 2 vùng",
+        "Ghế da cao cấp",
+        "Màn hình 9 inch",
+        "Camera 360 độ",
+        "Cửa sổ trời Panorama",
+        "Cửa cốp điện",
+        "Honda Sensing",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm",
+        "Sạc không dây"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD + BA",
+        "VSA - Ổn định thân xe",
+        "HSA - Hỗ trợ khởi hành",
+        "Cảnh báo va chạm",
+        "Cảnh báo lệch làn",
+        "Cruise Control thích ứng"
+      ],
+      "description": "Honda CR-V L là mẫu SUV 7 chỗ hoàn hảo cho gia đình. Với không gian rộng rãi, công nghệ Honda Sensing hiện đại và tiết kiệm nhiên liệu, CR-V mang đến sự an toàn và tiện nghi tối đa cho mọi hành trình.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "7 chỗ",
+        "Gia đình"
+      ],
+      "seoKeywords": [
+        "honda crv",
+        "suv 7 chỗ",
+        "xe gia đình"
+      ],
+      "createdAt": "2024-02-20T13:00:00Z",
+      "updatedAt": "2024-10-17T16:45:00Z"
+    },
+    {
+      "id": 10,
+      "name": "BMW X5 xDrive40i",
+      "brand": "BMW",
+      "model": "X5",
+      "variant": "xDrive40i",
+      "price": "4.199.000.000",
+      "priceNumber": 4199000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "luxury",
+      "rating": 5.0,
+      "reviews": 45,
+      "stock": "Còn hàng",
+      "stockQuantity": 2,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đen carbon",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Trắng alpine",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xanh phytonic",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        },
+        {
+          "name": "Xám sophisto",
+          "value": "gray",
+          "hex": "#4B5563",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "3.0L Inline-6 TwinPower Turbo",
+        "engineCapacity": "2998cc",
+        "power": "340 HP",
+        "powerRpm": "5500-6500",
+        "torque": "450 Nm",
+        "torqueRpm": "1500-5200",
+        "transmission": "Tự động 8 cấp Steptronic",
+        "fuelType": "Xăng",
+        "fuelConsumption": "9.1L/100km",
+        "fuelTankCapacity": "83L",
+        "seats": "5 chỗ",
+        "drive": "xDrive - Dẫn động 4 bánh toàn thời gian",
+        "acceleration": "5.5 giây (0-100km/h)",
+        "topSpeed": "245 km/h",
+        "dimensions": {
+          "length": "4922 mm",
+          "width": "2004 mm",
+          "height": "1745 mm",
+          "wheelbase": "2975 mm",
+          "groundClearance": "214 mm"
+        },
+        "weight": "2145 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 4 vùng",
+        "Ghế da Vernasca chỉnh điện massage",
+        "Hệ thống âm thanh Harman Kardon",
+        "Màn hình cảm ứng 12.3 inch",
+        "BMW Live Cockpit Professional",
+        "Camera 360 độ + Parking Assistant",
+        "Head-Up Display",
+        "Cửa sổ trời Panorama",
+        "Đèn Laser thích ứng",
+        "Hệ thống treo khí nén",
+        "Wireless CarPlay & Android Auto",
+        "Sạc không dây"
+      ],
+      "safety": [
+        "8 túi khí",
+        "ABS + DSC",
+        "Hệ thống phanh khẩn cấp",
+        "Cảnh báo va chạm trước/sau",
+        "Hỗ trợ giữ làn",
+        "Cruise Control thích ứng",
+        "Nhận diện biển báo",
+        "Cảnh báo điểm mù"
+      ],
+      "description": "BMW X5 xDrive40i là đỉnh cao của dòng SUV hạng sang. Kết hợp hoàn hảo giữa hiệu suất mạnh mẽ, công nghệ tiên tiến và nội thất sang trọng, X5 mang đến trải nghiệm lái xe đẳng cấp thượng lưu cho những khách hàng khó tính nhất.",
+      "warranty": {
+        "years": 3,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 3 năm không giới hạn số km"
+      },
+      "maintenance": {
+        "freeTimes": 5,
+        "description": "Miễn phí 5 năm bảo dưỡng định kỳ"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "100.000.000",
+        "gift": "Gói phụ kiện BMW M Performance trị giá 150 triệu",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Xe sang",
+        "VIP",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "bmw x5",
+        "suv sang",
+        "xe bmw",
+        "x5 xdrive"
+      ],
+      "createdAt": "2024-01-10T08:00:00Z",
+      "updatedAt": "2024-10-19T09:00:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Mazda CX-5 Premium",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "variant": "Premium",
+      "price": "979.000.000",
+      "priceNumber": 979000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "suv",
+      "rating": 4.5,
+      "reviews": 103,
+      "stock": "Còn hàng",
+      "stockQuantity": 10,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80",
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đỏ pha lê",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        },
+        {
+          "name": "Trắng ngọc trai",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xanh đại dương",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        },
+        {
+          "name": "Xám titan",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.5L SkyActiv-G",
+        "engineCapacity": "2488cc",
+        "power": "188 HP",
+        "powerRpm": "6000",
+        "torque": "252 Nm",
+        "torqueRpm": "4000",
+        "transmission": "Tự động 6 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.5L/100km",
+        "fuelTankCapacity": "58L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "9.2 giây (0-100km/h)",
+        "topSpeed": "200 km/h",
+        "dimensions": {
+          "length": "4575 mm",
+          "width": "1842 mm",
+          "height": "1685 mm",
+          "wheelbase": "2700 mm",
+          "groundClearance": "210 mm"
+        },
+        "weight": "1620 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động",
+        "Ghế da cao cấp",
+        "Màn hình 10.25 inch",
+        "Camera 360 độ",
+        "Head-Up Display",
+        "Cửa sổ trời",
+        "Cruise Control",
+        "Đèn LED tự động",
+        "Chìa khóa thông minh",
+        "Hệ thống âm thanh Bose"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD",
+        "DSC - Kiểm soát ổn định",
+        "MRCC - Cruise Control thích ứng",
+        "BSM - Cảnh báo điểm mù",
+        "RCTA - Cảnh báo phương tiện cắt ngang",
+        "SBS - Phanh khẩn cấp thông minh"
+      ],
+      "description": "Mazda CX-5 Premium là mẫu SUV 5 chỗ với thiết kế Kodo đầy cuốn hút và công nghệ SkyActiv tiết kiệm nhiên liệu. Nội thất sang trọng cùng trang bị an toàn i-Activsense hiện đại, CX-5 là lựa chọn lý tưởng cho gia đình hiện đại.",
+      "warranty": {
+        "years": 3,
+        "kilometers": 100000,
+        "description": "Bảo hành chính hãng 3 năm hoặc 100.000 km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Tiết kiệm nhiên liệu",
+        "Gia đình"
+      ],
+      "seoKeywords": [
+        "mazda cx5",
+        "suv mazda",
+        "cx5 premium"
+      ],
+      "createdAt": "2024-03-15T10:30:00Z",
+      "updatedAt": "2024-10-16T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Hyundai Santa Fe",
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "variant": "Premium",
+      "price": "1.365.000.000",
+      "priceNumber": 1365000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Dầu",
+      "category": "suv",
+      "rating": 4.7,
+      "reviews": 89,
+      "stock": "Còn hàng",
+      "stockQuantity": 7,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Xanh dương",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        },
+        {
+          "name": "Bạc",
+          "value": "silver",
+          "hex": "#C0C0C0",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.2L CRDi Diesel",
+        "engineCapacity": "2151cc",
+        "power": "200 HP",
+        "powerRpm": "3800",
+        "torque": "440 Nm",
+        "torqueRpm": "1750-2750",
+        "transmission": "Tự động 8 cấp",
+        "fuelType": "Dầu",
+        "fuelConsumption": "7.3L/100km",
+        "fuelTankCapacity": "71L",
+        "seats": "7 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "9.3 giây (0-100km/h)",
+        "topSpeed": "190 km/h",
+        "dimensions": {
+          "length": "4785 mm",
+          "width": "1900 mm",
+          "height": "1710 mm",
+          "wheelbase": "2765 mm",
+          "groundClearance": "185 mm"
+        },
+        "weight": "1885 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 3 vùng",
+        "Ghế da Nappa cao cấp",
+        "Màn hình 12.3 inch kép",
+        "Camera 360 độ",
+        "Cửa sổ trời Panorama",
+        "Ghế lái chỉnh điện + nhớ vị trí",
+        "Hệ thống âm thanh Bose 12 loa",
+        "Wireless CarPlay & Android Auto",
+        "Sạc không dây",
+        "Đèn LED Matrix thông minh"
+      ],
+      "safety": [
+        "9 túi khí",
+        "ABS + EBD + BA",
+        "ESC + VSM",
+        "Hyundai SmartSense",
+        "FCA - Phanh khẩn cấp tránh va chạm",
+        "LKA - Hỗ trợ giữ làn",
+        "SCC - Cruise Control thích ứng",
+        "BVM - Camera quan sát điểm mù"
+      ],
+      "description": "Hyundai Santa Fe thế hệ mới mang đến thiết kế vuông vức hiện đại và không gian nội thất rộng rãi cho 7 người. Với động cơ diesel mạnh mẽ, công nghệ SmartSense an toàn và trang bị cao cấp, Santa Fe là SUV 7 chỗ toàn diện cho gia đình.",
+      "warranty": {
+        "years": 5,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 5 năm không giới hạn km"
+      },
+      "maintenance": {
+        "freeTimes": 4,
+        "description": "Miễn phí 4 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "40.000.000",
+        "gift": "Phim cách nhiệt + Thảm lót sàn",
+        "validUntil": "2024-11-30"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "7 chỗ",
+        "Diesel",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "hyundai santa fe",
+        "suv 7 chỗ",
+        "santa fe 2024"
+      ],
+      "createdAt": "2024-02-25T09:15:00Z",
+      "updatedAt": "2024-10-19T11:30:00Z"
+    },
+    {
+      "id": 13,
+      "name": "VinFast VF 8 Plus",
+      "brand": "VinFast",
+      "model": "VF 8",
+      "variant": "Plus",
+      "price": "1.199.000.000",
+      "priceNumber": 1199000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Điện",
+      "category": "suv",
+      "rating": 4.4,
+      "reviews": 56,
+      "stock": "Còn hàng",
+      "stockQuantity": 12,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80",
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+      "colors": [
+        {
+          "name": "Đỏ",
+          "value": "red",
+          "hex": "#DC2626",
+          "available": true
+        },
+        {
+          "name": "Xanh dương",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Xám",
+          "value": "gray",
+          "hex": "#6B7280",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "Động cơ điện",
+        "engineCapacity": "N/A",
+        "power": "402 HP",
+        "powerRpm": "N/A",
+        "torque": "500 Nm",
+        "torqueRpm": "N/A",
+        "transmission": "Hộp số tự động 1 cấp",
+        "fuelType": "Điện",
+        "fuelConsumption": "18.1 kWh/100km",
+        "fuelTankCapacity": "Pin 87.7 kWh",
+        "seats": "5 chỗ",
+        "drive": "AWD - Dẫn động 2 cầu",
+        "acceleration": "5.5 giây (0-100km/h)",
+        "topSpeed": "200 km/h",
+        "dimensions": {
+          "length": "4750 mm",
+          "width": "1934 mm",
+          "height": "1667 mm",
+          "wheelbase": "2950 mm",
+          "groundClearance": "175 mm"
+        },
+        "weight": "2140 kg",
+        "range": "447 km"
+      },
+      "features": [
+        "Màn hình trung tâm 15.6 inch",
+        "Hệ thống lái tự động Level 2",
+        "Trợ lý ảo tiếng Việt",
+        "Ghế da Nappa chỉnh điện",
+        "Cửa sổ trời Panorama",
+        "Hệ thống âm thanh 13 loa",
+        "Sạc không dây",
+        "Camera 360 độ",
+        "Đèn LED Matrix",
+        "Cốp điện thông minh"
+      ],
+      "safety": [
+        "11 túi khí",
+        "ABS + EBD + ESC",
+        "ADAS - Hỗ trợ lái tiên tiến",
+        "Phanh khẩn cấp tự động",
+        "Cảnh báo va chạm trước/sau",
+        "Hỗ trợ giữ làn đường",
+        "Cruise Control thích ứng",
+        "Nhận diện biển báo giao thông"
+      ],
+      "description": "VinFast VF 8 Plus là mẫu SUV điện cao cấp với công nghệ thông minh và hiệu suất vượt trội. Thiết kế hiện đại, nội thất sang trọng cùng hệ thống lái tự động tiên tiến, VF 8 đại diện cho tương lai của ngành ô tô Việt Nam.",
+      "warranty": {
+        "years": 10,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 10 năm không giới hạn km cho xe và pin"
+      },
+      "maintenance": {
+        "freeTimes": 5,
+        "description": "Miễn phí bảo dưỡng trọn đời"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "50.000.000",
+        "gift": "Hộp sạc 11kW + 1 năm sạc miễn phí",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "Xe điện",
+        "SUV",
+        "Made in Vietnam",
+        "Giảm giá"
+      ],
+      "seoKeywords": [
+        "vinfast vf8",
+        "xe điện",
+        "suv điện"
+      ],
+      "createdAt": "2024-03-01T14:00:00Z",
+      "updatedAt": "2024-10-19T13:20:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Kia Sportage",
+      "brand": "Kia",
+      "model": "Sportage",
+      "variant": "Luxury",
+      "price": "979.000.000",
+      "priceNumber": 979000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "suv",
+      "rating": 4.6,
+      "reviews": 72,
+      "stock": "Còn hàng",
+      "stockQuantity": 9,
+      "featured": false,
+      "images": [
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80",
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80",
+      "colors": [
+        {
+          "name": "Xanh lá",
+          "value": "green",
+          "hex": "#059669",
+          "available": true
+        },
+        {
+          "name": "Trắng",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Đen",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Bạc",
+          "value": "silver",
+          "hex": "#C0C0C0",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.0L MPI",
+        "engineCapacity": "1999cc",
+        "power": "156 HP",
+        "powerRpm": "6200",
+        "torque": "192 Nm",
+        "torqueRpm": "4500",
+        "transmission": "Tự động 6 cấp",
+        "fuelType": "Xăng",
+        "fuelConsumption": "7.8L/100km",
+        "fuelTankCapacity": "62L",
+        "seats": "5 chỗ",
+        "drive": "Dẫn động cầu trước",
+        "acceleration": "10.5 giây (0-100km/h)",
+        "topSpeed": "180 km/h",
+        "dimensions": {
+          "length": "4660 mm",
+          "width": "1865 mm",
+          "height": "1660 mm",
+          "wheelbase": "2755 mm",
+          "groundClearance": "182 mm"
+        },
+        "weight": "1595 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động",
+        "Ghế da cao cấp",
+        "Màn hình 12.3 inch",
+        "Camera lùi",
+        "Cảm biến trước/sau",
+        "Cruise Control",
+        "Đèn LED tự động",
+        "Chìa khóa thông minh",
+        "Khởi động nút bấm",
+        "Gương gập điện tự động"
+      ],
+      "safety": [
+        "6 túi khí",
+        "ABS + EBD",
+        "ESC - Kiểm soát ổn định",
+        "HAC - Hỗ trợ khởi hành ngang dốc",
+        "Cảnh báo điểm mù",
+        "Cảnh báo phương tiện cắt ngang phía sau"
+      ],
+      "description": "Kia Sportage với thiết kế Opposites United táo bạo và hiện đại. SUV 5 chỗ này mang đến sự kết hợp hoàn hảo giữa phong cách, công nghệ và tính thực dụng, phù hợp cho cả đô thị lẫn địa hình gồ ghề.",
+      "warranty": {
+        "years": 5,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 5 năm không giới hạn km"
+      },
+      "maintenance": {
+        "freeTimes": 3,
+        "description": "Miễn phí 3 lần bảo dưỡng định kỳ đầu tiên"
+      },
+      "promotion": {
+        "hasPromotion": false
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV",
+        "Thiết kế đẹp"
+      ],
+      "seoKeywords": [
+        "kia sportage",
+        "suv kia",
+        "sportage 2024"
+      ],
+      "createdAt": "2024-03-10T11:45:00Z",
+      "updatedAt": "2024-10-18T15:10:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Audi Q7 Quattro",
+      "brand": "Audi",
+      "model": "Q7",
+      "variant": "45 TFSI Quattro",
+      "price": "3.899.000.000",
+      "priceNumber": 3899000000,
+      "year": 2024,
+      "mileage": "0 km",
+      "mileageNumber": 0,
+      "fuel": "Xăng",
+      "category": "luxury",
+      "rating": 4.9,
+      "reviews": 38,
+      "stock": "Còn hàng",
+      "stockQuantity": 3,
+      "featured": true,
+      "images": [
+        "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+        "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80",
+        "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+        "https://images.unsplash.com/photo-1617531653520-bd4f396d89c9?w=800&q=80"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
+      "colors": [
+        {
+          "name": "Trắng Glacier",
+          "value": "white",
+          "hex": "#FFFFFF",
+          "available": true
+        },
+        {
+          "name": "Đen Mythos",
+          "value": "black",
+          "hex": "#000000",
+          "available": true
+        },
+        {
+          "name": "Xám Daytona",
+          "value": "gray",
+          "hex": "#4B5563",
+          "available": true
+        },
+        {
+          "name": "Xanh Navarra",
+          "value": "blue",
+          "hex": "#1E40AF",
+          "available": true
+        }
+      ],
+      "specs": {
+        "engine": "2.0L TFSI Turbo",
+        "engineCapacity": "1984cc",
+        "power": "340 HP",
+        "powerRpm": "5000-6500",
+        "torque": "500 Nm",
+        "torqueRpm": "1600-4500",
+        "transmission": "Tự động 8 cấp Tiptronic",
+        "fuelType": "Xăng",
+        "fuelConsumption": "8.7L/100km",
+        "fuelTankCapacity": "85L",
+        "seats": "7 chỗ",
+        "drive": "Quattro - Dẫn động 4 bánh toàn thời gian",
+        "acceleration": "5.9 giây (0-100km/h)",
+        "topSpeed": "250 km/h",
+        "dimensions": {
+          "length": "5063 mm",
+          "width": "1970 mm",
+          "height": "1741 mm",
+          "wheelbase": "2994 mm",
+          "groundClearance": "230 mm"
+        },
+        "weight": "2205 kg"
+      },
+      "features": [
+        "Hệ thống điều hòa tự động 4 vùng",
+        "Ghế da Valcona chỉnh điện massage",
+        "Hệ thống âm thanh Bang & Olufsen 3D",
+        "Virtual Cockpit Plus 12.3 inch",
+        "Màn hình cảm ứng MMI 10.1 inch",
+        "Camera 360 độ + đỗ xe tự động",
+        "Head-Up Display",
+        "Cửa sổ trời Panorama",
+        "Đèn Matrix LED",
+        "Treo khí nén thích ứng",
+        "Ghế thứ 3 chỉnh điện",
+        "Wireless Apple CarPlay"
+      ],
+      "safety": [
+        "8 túi khí",
+        "ABS + ESC",
+        "Audi Pre Sense",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist",
+        "Blind Spot Monitor",
+        "Night Vision Assistant",
+        "Park Assist"
+      ],
+      "description": "Audi Q7 Quattro là biểu tượng của SUV hạng sang 7 chỗ. Với thiết kế tinh tế, nội thất xa hoa và công nghệ Quattro huyền thoại, Q7 mang đến trải nghiệm lái xe đẳng cấp và không gian rộng rãi cho cả gia đình.",
+      "warranty": {
+        "years": 3,
+        "kilometers": "unlimited",
+        "description": "Bảo hành chính hãng 3 năm không giới hạn km"
+      },
+      "maintenance": {
+        "freeTimes": 5,
+        "description": "Miễn phí 5 năm bảo dưỡng định kỳ"
+      },
+      "promotion": {
+        "hasPromotion": true,
+        "discount": "150.000.000",
+        "gift": "Gói phụ kiện Audi Exclusive trị giá 200 triệu",
+        "validUntil": "2024-12-31"
+      },
+      "tags": [
+        "Mới 2024",
+        "SUV sang",
+        "7 chỗ",
+        "Quattro",
+        "VIP"
+      ],
+      "seoKeywords": [
+        "audi q7",
+        "suv 7 chỗ sang",
+        "q7 quattro"
+      ],
+      "createdAt": "2024-01-20T10:30:00Z",
+      "updatedAt": "2024-10-19T14:00:00Z"
+    }
+  ]
+}
