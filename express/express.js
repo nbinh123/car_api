@@ -43,12 +43,7 @@ app.use(express.urlencoded({
 }));
 app.use(express.json());
 
-app.get("/haha", (req, res) => {
-    res.json({
-        message: "tao la binh"
-    })
-})
-app.get('/api/data', (req, res) => res.json(data));
+// app.get('/api/data', (req, res) => res.json(data));
 
 
 app.listen(port, () => console.log(`http://localhost:${port}`))

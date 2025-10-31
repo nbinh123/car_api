@@ -6,8 +6,9 @@ const express = require("express")
 const router = express.Router()
 // nạp file HomeController
 const UserController = require("../../controllers/UserController")
+const { authenticateToken, authorizeUser } = require("../../middleware/middleware")
 
-router.get('/get_information/:userID', UserController.getInformation)
+router.get('/get_information', authenticateToken, UserController.getInformation)
 
 router.post('/sign_in', UserController.sign_in)
 router.post('/login', UserController.login)

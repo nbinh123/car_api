@@ -5,12 +5,12 @@ const { multipleMongooseToObject, singleMongooseToOject } = require("../ulti/con
 const bcrypt = require("bcrypt");
 const jwt = require('jsonwebtoken');
 
-class ProductController {
+class UserController {
 
     //  [POST]  /login
     login = async (req, res, next) => {
         const { username, password } = req.body;
-
+        
         // Kiểm tra xem người dùng có tồn tại không
         const user = await User.findOne({ username });
         if (!user) return res.status(400).json({ 
@@ -19,7 +19,7 @@ class ProductController {
         });
 
         // Kiểm tra mật khẩu (so sánh mật khẩu nhập vào với mật khẩu mã hóa trong DB)
-        const isMatch = bcrypt.compare(password, user.password);
+        const isMatch = await bcrypt.compare(password, user.password);
         if (!isMatch) return res.status(400).json({ 
             message: 'Invalid credentials',
             status: 400 
@@ -38,7 +38,7 @@ class ProductController {
     //  [POST]  /sign_in
     sign_in = async (req, res, next) => {
 
-        const { username, password } = req.body;
+        const { username, password, phone, fullName, email } = req.body;
 
         // Kiểm tra xem người dùng đã tồn tại hay chưa
         const existingUser = await User.findOne({ username });
@@ -58,7 +58,10 @@ class ProductController {
         // Tạo người dùng mới
         const newUser = new User({
             username,
-            password: hashedPassword
+            password: hashedPassword,
+            phone,
+            email,
+            fullName
         });
 
         // Lưu người dùng vào database
@@ -72,8 +75,7 @@ class ProductController {
     //  [GET]   /get_information
     getInformation = async (req, res, next) => {
         try {
-            const { userID } = req.params;
-            console.log("ID: ", userID);
+            const { userID } = req.query;
             
             // Kiểm tra nếu `userID` không được cung cấp
             if (!userID) {
@@ -97,7 +99,7 @@ class ProductController {
             // Trả về thông tin người dùng
             res.json({
                 userID: user._id,
-                name: user.name,
+                userData: user,
                 status: 200
             });
     
@@ -110,4 +112,4 @@ class ProductController {
     
 }
 
-module.exports = new ProductController;
+module.exports = new UserController;
